@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
 ---
 
-My name is Damian
+[[garden/test1\|test1]]
